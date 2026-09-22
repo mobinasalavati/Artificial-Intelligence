@@ -1,7 +1,7 @@
 # Project 0 – Bank Term Deposit: EDA & Simple Statistical Classification
 
 Computer Assignment 0 for the Artificial Intelligence course (University of Tehran, Spring 1401 / 2022).
-Instructors: Dr. Fadaee & Dr. Yaghoobzadeh — Designers: Nastaran Jamalipour, Fatemeh Seyeddabbaghi.
+Instructors: Dr. Fadaee & Dr. Yaghoobzadeh.
 
 ## Overview
 
